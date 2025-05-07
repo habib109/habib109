@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=I'm%20Habibur%20Rahman%20🚀&descAlignY=55&descAlign=50" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🧑‍🎓 Completed Computer Department from TMSS TTI  
@@ -37,6 +43,7 @@
 ---
 
 ## 🌱 Learning Journey
+
 - ⚛️ React.js, Tailwind CSS, GSAP, Framer Motion  
 - 🧠 Exploring animations, UI/UX & real-time APIs
 
@@ -46,7 +53,41 @@
 
 ```html
 HTML | CSS | JavaScript | React | Tailwind CSS | Git | Figma
+💬 Ask Me About
+js
+Copy
+Edit
 React, GSAP, Vue, JavaScript logic, Responsive UI
+📫 Let’s Connect
 📧 Email: mdhabib80987@gmail.com
-🔍 All projects: GitHub Profile
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=habib109&show_icons=true&theme=tokyonight" alt="GitHub stats"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib109&layout=compact&theme=tokyonight" alt="Top Languages"/> </p> ```
+
+🌐 Portfolio: coming soon
+
+📝 Blog: coming soon
+
+📄 Resume: coming soon
+
+🔍 Projects: GitHub Profile
+
+🏷️ Badges
+
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=habib109&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+🧑‍💻 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib109&layout=compact&theme=radical" alt="Top Languages" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=habib109&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
+📈 GitHub Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=habib109&theme=react-dark" alt="Contribution Graph" /> </p>
+⌚ WakaTime Coding Stats
+<!-- If you use WakaTime, link your account --> <!-- Replace `habib109` with your actual WakaTime username if active -->
+text
+Copy
+Edit
+⌛ Weekly Coding Stats
+Coming Soon...
+👀 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=habib109&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> ```
