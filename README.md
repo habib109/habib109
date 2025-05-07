@@ -1,12 +1,20 @@
-# Hi, I'm Habibur Rahman 👋
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👩‍💻👨‍💻
 
-## 👨‍💻 About Me
-I’m a frontend developer with a passion for learning and building things with modern web technologies. I specialize in **React**, **JavaScript**, **CSS**, and **HTML**. I love to experiment with new tools and stay updated with the latest trends in web development.
+Welcome!  
+You have finally discovered my Github profile.  
+Please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better.  
+Ask me anything here or email me. 😊
+
+---
+
+### 🧑‍💻 About Me
+I'm a passionate frontend developer who enjoys working with **React**, **JavaScript**, **CSS**, and **HTML**.  
+Currently exploring new frameworks, technologies, and creative design patterns.
+
+---
 
 ## 📚 My Skills
 
-</p>
-### Frontend Development
 - ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=cyan)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=orange)
@@ -37,10 +45,10 @@ I’m a frontend developer with a passion for learning and building things with 
 
 ---
 
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habib109&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 😄 Random Dev Joke for You!
+> "Why do programmers prefer dark mode?  
+> Because the light attracts bugs!"  
+> [Click here to create your own joke](https://readme-jokes.vercel.app)
 
 ---
 
@@ -49,6 +57,16 @@ I’m a frontend developer with a passion for learning and building things with 
 - 🌐 Portfolio: Coming Soon
 - 📝 Blog: Coming Soon
 - 📄 Resume: Coming Soon
+
+---
+
+### 🏷️ My Pinned Projects
+
+- [readme-jokes](https://github.com/ABSphreak/readme-jokes) - 😄 Jokes for your GitHub READMEs
+- [designtocode](https://github.com/DevDesigneer/designtocode) - 🦋 Different UI designs implemented in pure HTML+CSS
+- [markdown-editor](https://github.com/ABSphreak/markdown-editor) - Markdown editor with Electron and React ⚛
+- [wesbosJS30](https://github.com/wesbosJS30) - 🐳 Wesbos' JavaScript30 course codes for JS practice
+- [pizza-cart](https://github.com/habib109/pizza-cart) - 🍕 Pizza Cart App - Simple shopping cart app demonstrating React + Redux
 
 ---
 
