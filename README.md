@@ -5,8 +5,6 @@ I’m a frontend developer with a passion for learning and building things with 
 
 ## 📚 My Skills
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=I'm%20Habibur%20Rahman%20🚀&descAlignY=55&descAlign=50" />
 </p>
 ### Frontend Development
 - ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=cyan)
