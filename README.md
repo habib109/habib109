@@ -1,18 +1,18 @@
 <div align="center">
 
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=shopify,react,js,html,css,tailwind,github,vscode&theme=dark" />
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/habib109/habib109/main/banner.png"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frontend-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX-Premium-blue?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Shopify+Developer+🚀;Frontend+Developer+💻;React+Developer+⚛️;Building+Premium+eCommerce+Experiences"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=habib109&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+---
 
 # 👋 Hey, I'm Habib
 
@@ -25,29 +25,27 @@
 
 ## 🧠 About Me
 
-- 🔥 Developing modern Shopify stores
-- 🎨 Love clean and luxury UI design
-- 💻 Frontend focused developer
-- 📈 Always improving skills
-- ☕ Coffee + coding + music
+- 🔥 Developing modern Shopify stores  
+- 🎨 Love clean and luxury UI design  
+- 💻 Frontend focused developer  
+- 📈 Always improving skills  
+- ☕ Coffee + coding + music  
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,github,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=shopify,react,js,html,css,tailwind,bootstrap,github,vscode&theme=dark"/>
 </p>
 
-### Shopify Stack
+<p align="center">
 
-<p>
+<img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white">
+<img src="https://img.shields.io/badge/Frontend-00C2FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/UI%2FUX-Premium-blue?style=for-the-badge"/>
 
 </p>
 
@@ -56,11 +54,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=habib109&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib109&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -68,9 +63,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=habib109&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -89,23 +82,19 @@
 
 ## 🌍 Connect With Me
 
-<p>
-
+<p align="center">
 <a href="YOUR_LINKEDIN">LinkedIn</a> •
 <a href="YOUR_PORTFOLIO">Portfolio</a> •
 <a href="YOUR_FACEBOOK">Facebook</a>
-
 </p>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=habib109&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <div align="center">
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
