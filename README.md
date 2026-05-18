@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:00c2ff&text=Habib%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:00c2ff&text=Habib%20Dev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Shopify+Developer+🚀;Frontend+Developer+💻;Building+Premium+eCommerce+Experiences;UI%2FUX+Lover+✨;Always+Learning+New+Things"/>
 
