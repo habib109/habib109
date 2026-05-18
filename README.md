@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="[ChatGPT_Image_May_18_2026_04_17_29_PM_rclozt](https://res.cloudinary.com/dz16jy0kp/image/upload/q_auto/f_auto/v1779099470/ChatGPT_Image_May_18_2026_04_17_29_PM_rclozt.png)"/>
+<img width="100%" src="ChatGPT_Image_May_18_2026_04_17_29_PM_rclozt](https://res.cloudinary.com/dz16jy0kp/image/upload/q_auto/f_auto/v1779099470/ChatGPT_Image_May_18_2026_04_17_29_PM_rclozt.png"/>
 
 <br>
 
